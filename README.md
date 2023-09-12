@@ -12,7 +12,7 @@ This repository contains the source code for the "Bake My Day" bakery website. T
 
 ### 2. Online Ordering
 - The website provides customers with the option to place orders online.
-- A shopping cart system allows users to select items and complete their orders.
+- JavaScript is used to ensure certain required input criteras are met
 
 ### 3. About Us
 - The "About Us" section provides information about the bakery, its history, and its mission.
@@ -21,6 +21,7 @@ This repository contains the source code for the "Bake My Day" bakery website. T
 ### 4. Custom Video
 - A custom video, created by myself, is featured on the website's homepage.
 - The video highlights the bakery's ambiance and offerings, enhancing the user experience.
+- Demostrates my ability to insert and format a video 
 
 ## Technologies Used
 - HTML
@@ -34,20 +35,12 @@ This repository contains the source code for the "Bake My Day" bakery website. T
 - **images**: Image assets used in the project.
 - **video**: Custom video content for the homepage.
 
-## Usage
-To view the website, simply open the `index.html` file in your web browser.
 
-## Screenshots
-[Include screenshots or links to screenshots of your website here]
+## Link
+[Bake My Day](https://students.fscj.edu/~s3770653/Projects/eCommerce/home.html)
 
-## Demo
-[Provide a link to a live demo of your website, if available]
 
-## Contributing
-Feel free to contribute to this project by submitting issues or pull requests.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 I would like to acknowledge [mention any external resources, libraries, or tutorials used] for their valuable contributions to this project.
