@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the source code for the "Bake My Day" bakery website. The website is designed to showcase my web development skills using HTML, CSS, and JavaScript. It features a menu, online ordering functionality, an "About Us" section, and custom video content.
+This repository contains the source code for the "Bake My Day" bakery website. The website is designed to showcase my web development skills using HTML, CSS, and JavaScript. It features a menu, online ordering functionality, an "About Us" section, and custom video content. It also contains a compressed folder with the source code.
 
 ## Website Features
 
